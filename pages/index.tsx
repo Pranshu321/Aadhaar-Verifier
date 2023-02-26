@@ -73,8 +73,11 @@ const Home: NextPage = () => {
         }}
       />
       <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Aadhar Verifier</title>
+        <link
+          rel="icon"
+          href="https://cdn.iconscout.com/icon/free/png-256/aadhaar-2085055-1747945.png"
+        />
       </Head>
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
